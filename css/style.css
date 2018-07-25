@@ -17,21 +17,7 @@ img {
   padding: 10px;
   margin: 10px auto;
 }
-.column {
-  display: inline-block;
-}
-.small {
-  width: 33%;
-}
-.med {
-  width: 66%;
-}
-.large {
-  width: 100%;
-}
-.med .small {
-  width: 40%;
-}
+
 
 h4 {
   width: fit-content;
@@ -66,3 +52,18 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 /* create your tile classes! we recommend .small .med .large */
+.column {
+  display: inline-block;
+}
+.small {
+  width: 33%;
+}
+.med {
+  width: 66%;
+}
+.large {
+  width: 100%;
+}
+.med .small {
+  width: 40%;
+}
