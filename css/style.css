@@ -7,9 +7,6 @@ body, html {
   text-align: center;
   background-color: #666;
 }
-img {
-  width: 100%;
-}
 .container, h1 {
   width: 80%;
   max-width: 600px;
@@ -65,4 +62,7 @@ img:hover {
 }
 .med .small {
   width: 49%;
+}
+img {
+  width: 100%;
 }
