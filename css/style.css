@@ -18,7 +18,7 @@ img {
   margin: 10px auto;
 }
 .column {
-  display: block;
+  display: inline-block;
 }
 .small {
   width: 33.33%;
