@@ -29,6 +29,9 @@ img {
 .large {
   width: 100%;
 }
+.med .small {
+  width: 50%;
+}
 
 h4 {
   width: fit-content;
