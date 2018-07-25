@@ -59,10 +59,7 @@ img:hover {
 }
 .large {
   width: 100%;
-}
-.med .small {
-  width: 49%;
-}
+} 
 /* img {
   width: 100%;
   padding: 2px;
