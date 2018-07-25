@@ -21,16 +21,16 @@ img {
   display: inline-block;
 }
 .small {
-  width: 33%;
+  width: 30%;
 }
 .med {
-  width: 66%;
+  width: 70%;
 }
 .large {
   width: 100%;
 }
 .med .small {
-  width: 40%;
+  width: 50%;
 }
 
 h4 {
